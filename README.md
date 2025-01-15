@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently looking for a new position: SRE, incident commander, sysadmin...
 - 👯 I’m looking to collaborate on infrastructure/platform projects and components, automation...
-- 📫 How to reach me: see details on my public profile.
+- 📫 How to reach me:
+  - see details on my public profiles on [GitHub](https://github.com/l-c-t) or [GitLab.com](https://gitlab.com/l_c_t).
 <!--
 **l-c-t/l-c-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
